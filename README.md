@@ -9,12 +9,11 @@ Currently, two official plugins are available:
 
 -   http://localhost:5173/to see the output in localhost
 -   here the various route paths are used to access the pages
- <Routes>
-        <Route path='/' element={<Home />}></Route>
-        <Route path="/signup" element={<Signup />}></Route>
-        <Route path="/login" element={<Login />}></Route>
-        <Route path="/forgotPassword" element={<ForgotPassword />}></Route>
-        <Route path="/resetPassword/:token" element={<ResetPassword />}></Route>
-        <Route path="/dashboard" element={<Dashboard />}></Route>
-        <Route path="/urlshortner" element={<Urlshortner />}></Route>
-      </Routes>
+         path='/' <Home>
+         path="/signup"
+         path="/login" 
+         path="/forgotPassword" 
+         path="/resetPassword/:token" 
+         path="/dashboard"
+         path="/urlshortner"
+      
