@@ -53,8 +53,8 @@ This project is a full-stack web application for password management, providing 
 
 ## Deployment
 
-- Frontend: Deployed on [Netlify]()
-- Backend: Deployed on [Render]()
+- Frontend: Deployed on [Netlify](https://chipper-marigold-f7720c.netlify.app)
+- Backend: Deployed on [Render](https://mern-urlbackend.onrender.com)
 
 ## Installation and Setup
 
