@@ -60,7 +60,7 @@ const Urlshortner = () => {
           <h2>Short URL:</h2>
           <p>{`https://mern-urlbackend.onrender.com/${shortUrl}`}</p>
           
-          <a href={`https://mern-urlbackend.onrender.com/${shortUrl}`}>Click the link</a>
+          <a href={`https://mern-urlbackend.onrender.com/${shortUrl}`}>Click-here</a>
 
         </div>
         
